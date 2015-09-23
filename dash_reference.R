@@ -30,7 +30,7 @@ dim(Table(ref)[,c(1,2,b)])
 ref_deg=join(deg,Table(ref)[,c(1,2,b)],by=c("IDENTIFIER"), type = "left", match = "first")
 dim(ref_deg)
 
-## romove nas
+## remove nas
 ref_deg_rmna = na.omit(ref_deg)
 dim(ref_deg_rmna)
 
@@ -47,7 +47,7 @@ colnames(deg)=c("IDENTIFIER")
 exp_deg=join(deg,Table(gds),by=c("IDENTIFIER"), type = "left", match = "first")
 dim(exp_deg)
 
-## romove nas
+## remove nas
 exp_deg_rmna = na.omit(exp_deg)
 dim(exp_deg_rmna)
 
@@ -55,7 +55,7 @@ dim(exp_deg_rmna)
 rownames(exp_deg_rmna)=exp_deg_rmna$IDENTIFIER
 ###
 
-#COMBING REFERENCE AND TUMOR
+#COMBINING REFERENCE AND TUMOR DATASETS
 inter=intersect(rownames(exp_deg_rmna),rownames(ref_deg_rmna))
 #scale NCI-60
 exp_deg_rmna_mat=data.matrix(exp_deg_rmna)
@@ -98,6 +98,7 @@ Z = df_trans_mat_scale%*%V #PCs
 ## get the top 4 pc
 df_Top4_pc=U[,1:4]
 colnames(df_Top4_pc)=c("PC1","PC2","PC3","PC4")
+
 ## plot
 par(mfrow=c(1,1))
 groups1<-paste0("cancer_",Columns(gds)$tissue)
