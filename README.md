@@ -34,6 +34,8 @@ deg.txt - got all protein coding genes (424) that are differentially expressed o
 - http://129.187.44.58:7070/NCI60/query/globalExpression
 
 Single Cell Melanoma and Leukemia data
+GSE66117_CLL_FPKM_values.txt RNA-seq data of chronic lymphocytic leukemia http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE66117
+GSE62526_Normalized_expression_values.txt RNA-seq data of 29 melanoma cell lines http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62526
 
 ##########
 
