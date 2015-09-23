@@ -1,0 +1,198 @@
+GSM803615	cancer_leukemia	1
+GSM803674	cancer_leukemia	1
+GSM803733	cancer_leukemia	1
+GSM803616	cancer_leukemia	1
+GSM803675	cancer_leukemia	1
+GSM803734	cancer_leukemia	1
+GSM803617	cancer_leukemia	1
+GSM803676	cancer_leukemia	1
+GSM803735	cancer_leukemia	1
+GSM803618	cancer_leukemia	1
+GSM803677	cancer_leukemia	1
+GSM803736	cancer_leukemia	1
+GSM803619	cancer_leukemia	1
+GSM803678	cancer_leukemia	1
+GSM803737	cancer_leukemia	1
+GSM803620	cancer_leukemia	1
+GSM803679	cancer_leukemia	1
+GSM803738	cancer_leukemia	1
+GSM803621	cancer_breast	1
+GSM803680	cancer_breast	1
+GSM803739	cancer_breast	1
+GSM803622	cancer_breast	1
+GSM803681	cancer_breast	1
+GSM803740	cancer_breast	1
+GSM803623	cancer_breast	1
+GSM803682	cancer_breast	1
+GSM803741	cancer_breast	1
+GSM803624	cancer_ovarian	1
+GSM803683	cancer_ovarian	1
+GSM803742	cancer_ovarian	1
+GSM803625	cancer_breast	1
+GSM803684	cancer_breast	1
+GSM803743	cancer_breast	1
+GSM803626	cancer_melanoma	1
+GSM803685	cancer_melanoma	1
+GSM803744	cancer_melanoma	1
+GSM803627	cancer_CNS	1
+GSM803686	cancer_CNS	1
+GSM803745	cancer_CNS	1
+GSM803628	cancer_CNS	1
+GSM803687	cancer_CNS	1
+GSM803746	cancer_CNS	1
+GSM803629	cancer_CNS	1
+GSM803688	cancer_CNS	1
+GSM803747	cancer_CNS	1
+GSM803630	cancer_CNS	1
+GSM803689	cancer_CNS	1
+GSM803748	cancer_CNS	1
+GSM803631	cancer_CNS	1
+GSM803690	cancer_CNS	1
+GSM803749	cancer_CNS	1
+GSM803632	cancer_CNS	1
+GSM803691	cancer_CNS	1
+GSM803750	cancer_CNS	1
+GSM803633	cancer_colon	1
+GSM803692	cancer_colon	1
+GSM803751	cancer_colon	1
+GSM803634	cancer_colon	1
+GSM803693	cancer_colon	1
+GSM803752	cancer_colon	1
+GSM803635	cancer_colon	1
+GSM803694	cancer_colon	1
+GSM803753	cancer_colon	1
+GSM803636	cancer_colon	1
+GSM803695	cancer_colon	1
+GSM803754	cancer_colon	1
+GSM803637	cancer_colon	1
+GSM803696	cancer_colon	1
+GSM803755	cancer_colon	1
+GSM803638	cancer_colon	1
+GSM803697	cancer_colon	1
+GSM803756	cancer_colon	1
+GSM803639	cancer_colon	1
+GSM803698	cancer_colon	1
+GSM803757	cancer_colon	1
+GSM803640	cancer_renal	1
+GSM803699	cancer_renal	1
+GSM803758	cancer_renal	1
+GSM803641	cancer_renal	1
+GSM803700	cancer_renal	1
+GSM803759	cancer_renal	1
+GSM803642	cancer_renal	1
+GSM803701	cancer_renal	1
+GSM803760	cancer_renal	1
+GSM803643	cancer_renal	1
+GSM803702	cancer_renal	1
+GSM803644	cancer_renal	1
+GSM803703	cancer_renal	1
+GSM803761	cancer_renal	1
+GSM803645	cancer_renal	1
+GSM803704	cancer_renal	1
+GSM803762	cancer_renal	1
+GSM803646	cancer_renal	1
+GSM803705	cancer_renal	1
+GSM803763	cancer_renal	1
+GSM803647	cancer_renal	1
+GSM803706	cancer_renal	1
+GSM803764	cancer_renal	1
+GSM803648	cancer_non-small cell lung	1
+GSM803707	cancer_non-small cell lung	1
+GSM803765	cancer_non-small cell lung	1
+GSM803649	cancer_non-small cell lung	1
+GSM803708	cancer_non-small cell lung	1
+GSM803766	cancer_non-small cell lung	1
+GSM803650	cancer_non-small cell lung	1
+GSM803709	cancer_non-small cell lung	1
+GSM803767	cancer_non-small cell lung	1
+GSM803651	cancer_non-small cell lung	1
+GSM803710	cancer_non-small cell lung	1
+GSM803768	cancer_non-small cell lung	1
+GSM803652	cancer_non-small cell lung	1
+GSM803711	cancer_non-small cell lung	1
+GSM803653	cancer_non-small cell lung	1
+GSM803712	cancer_non-small cell lung	1
+GSM803769	cancer_non-small cell lung	1
+GSM803654	cancer_non-small cell lung	1
+GSM803713	cancer_non-small cell lung	1
+GSM803770	cancer_non-small cell lung	1
+GSM803655	cancer_non-small cell lung	1
+GSM803714	cancer_non-small cell lung	1
+GSM803771	cancer_non-small cell lung	1
+GSM803656	cancer_non-small cell lung	1
+GSM803715	cancer_non-small cell lung	1
+GSM803772	cancer_non-small cell lung	1
+GSM803657	cancer_ovarian	1
+GSM803716	cancer_ovarian	1
+GSM803773	cancer_ovarian	1
+GSM803658	cancer_ovarian	1
+GSM803717	cancer_ovarian	1
+GSM803774	cancer_ovarian	1
+GSM803659	cancer_ovarian	1
+GSM803718	cancer_ovarian	1
+GSM803775	cancer_ovarian	1
+GSM803660	cancer_ovarian	1
+GSM803719	cancer_ovarian	1
+GSM803776	cancer_ovarian	1
+GSM803661	cancer_ovarian	1
+GSM803720	cancer_ovarian	1
+GSM803777	cancer_ovarian	1
+GSM803662	cancer_ovarian	1
+GSM803732	cancer_ovarian	1
+GSM803778	cancer_ovarian	1
+GSM803663	cancer_prostate	1
+GSM803721	cancer_prostate	1
+GSM803779	cancer_prostate	1
+GSM803664	cancer_prostate	1
+GSM803722	cancer_prostate	1
+GSM803780	cancer_prostate	1
+GSM803665	cancer_melanoma	1
+GSM803723	cancer_melanoma	1
+GSM803781	cancer_melanoma	1
+GSM803666	cancer_melanoma	1
+GSM803724	cancer_melanoma	1
+GSM803782	cancer_melanoma	1
+GSM803667	cancer_melanoma	1
+GSM803725	cancer_melanoma	1
+GSM803783	cancer_melanoma	1
+GSM803668	cancer_melanoma	1
+GSM803726	cancer_melanoma	1
+GSM803784	cancer_melanoma	1
+GSM803669	cancer_melanoma	1
+GSM803727	cancer_melanoma	1
+GSM803670	cancer_melanoma	1
+GSM803728	cancer_melanoma	1
+GSM803785	cancer_melanoma	1
+GSM803671	cancer_melanoma	1
+GSM803729	cancer_melanoma	1
+GSM803786	cancer_melanoma	1
+GSM803672	cancer_melanoma	1
+GSM803730	cancer_melanoma	1
+GSM803787	cancer_melanoma	1
+GSM803673	cancer_breast	1
+GSM803731	cancer_breast	1
+GSM803788	cancer_breast	1
+GSM18933	normal_brain	2
+GSM18934	normal_brain	2
+GSM18923	normal_brain	2
+GSM18924	normal_brain	2
+GSM18929	normal_brain	2
+GSM18930	normal_brain	2
+GSM18917	normal_brain	2
+GSM18918	normal_brain	2
+GSM18997	normal_ovary	2
+GSM18998	normal_ovary	2
+GSM18957	normal_prostate	2
+GSM18958	normal_prostate	2
+GSM18889	normal_blood	2
+GSM18890	normal_blood	2
+GSM18877	normal_blood	2
+GSM18878	normal_blood	2
+GSM18875	normal_blood	2
+GSM18876	normal_blood	2
+GSM18949	normal_lung	2
+GSM18950	normal_lung	2
+GSM19001	normal_skin	2
+GSM19002	normal_skin	2
+GSM18955	normal_kidney	2
+GSM18956	normal_kidney	2
