@@ -19,7 +19,7 @@ dim(deg)
 exp_deg=join(deg,Table(gds),by=c("IDENTIFIER"), type = "left", match = "first")
 dim(exp_deg)
 
-## romove nas
+## remove nas
 exp_deg_rmna = na.omit(exp_deg)
 dim(exp_deg_rmna)
 
@@ -30,14 +30,14 @@ rownames(exp_deg_rmna)=exp_deg_rmna$IDENTIFIER
 exp_deg_rmna_trans = t(data.matrix(exp_deg_rmna[,-(1:2)]))
 exp_deg_rmna_trans_mat_scale=scale(exp_deg_rmna_trans)
 
-## pca
+## principal components analysis
 svd = svd( exp_deg_rmna_trans_mat_scale )
 U = svd$u
 V = svd$v #PC loadings
 D = svd$d
 Z = exp_deg_rmna_trans_mat_scale%*%V #PCs
 
-## get the top 4 pc
+## get the top 4 principal components
 exp_Top4_pc=U[,1:4]
 colnames(exp_Top4_pc)=c("PC1","PC2","PC3","PC4")
 
