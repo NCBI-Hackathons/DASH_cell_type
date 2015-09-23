@@ -32,6 +32,11 @@ deg.txt - got all protein coding genes (424) that are differentially expressed o
 
 ##########
 PROGRAMMING
+
+Downloaded and handled GEO data in R
+
+Model Training and Testing in Python
+
 ##########
 
 ##########
